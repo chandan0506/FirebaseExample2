@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_profile"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.reve.firebaseexample.activity.HomeActivity">
+
+    <Button
+        android:id="@+id/button_goto_database"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_dark"
+        android:padding="10dp"
+        android:text="@string/goto_database"
+        android:textColor="@android:color/white"/>
+    <Button
+        android:id="@+id/button_goto_storage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/holo_blue_dark"
+        android:padding="10dp"
+        android:text="@string/goto_storage"
+        android:textColor="@android:color/white"/>
+</LinearLayout>

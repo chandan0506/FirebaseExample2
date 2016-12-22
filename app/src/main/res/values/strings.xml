@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FirebaseExample</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Email</string>
+    <string name="enter_password">EnterPassword</string>
+    <string name="signup">SignUp</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="save_to_database">Save To Database</string>
+    <string name="goto_database">Go To Database</string>
+    <string name="show_data">Show Data</string>
+    <string name="content_description">ImageContentDescription</string>
+    <string name="browse">Browse</string>
+    <string name="upload">Upload</string>
+    <string name="goto_storage">Go To Storage</string>
+    <string name="progress">Progress</string>
+    <string name="cancel">Cancel</string>
+    <string name="facebook_app_id">1181941145227035</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="update_profile">Update Profile</string>
+</resources>
